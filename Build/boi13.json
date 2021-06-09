@@ -1,0 +1,16 @@
+{
+"companyName": "demin",
+"productName": "Музыкальный тест",
+"productVersion": "1.1",
+"dataUrl": "boi13.data.unityweb",
+"wasmCodeUrl": "boi13.wasm.code.unityweb",
+"wasmFrameworkUrl": "boi13.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.13f1"
+}
